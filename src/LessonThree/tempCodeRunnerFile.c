@@ -1,0 +1,1 @@
+   printf("second Loop at index %d \n", &numbers[x][i]);
